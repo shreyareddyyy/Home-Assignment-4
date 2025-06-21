@@ -1,6 +1,4 @@
 
-
-````markdown
 # Home Assignment 4 – CS5720 Neural Networks and Deep Learning
 
 University of Central Missouri  
@@ -8,7 +6,6 @@ Department of Computer Science & Cybersecurity
 
 This repository contains the solutions for **Home Assignment 4** of the **CS5720 Neural Networks and Deep Learning** course. The assignment covers **Generative Adversarial Networks (GANs)**, **data poisoning**, **ethical considerations in AI**, and **fairness analysis**.
 
----
 
 ## 📦 Setup Instructions
 
